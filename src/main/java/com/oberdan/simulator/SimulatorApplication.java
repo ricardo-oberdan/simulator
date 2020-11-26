@@ -1,13 +1,13 @@
-package com.oberdan.transactions;
+package com.oberdan.simulator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TransactionsApplication {
+public class SimulatorApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TransactionsApplication.class, args);
+		SpringApplication.run(SimulatorApplication.class, args);
 	}
 
 }
