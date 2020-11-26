@@ -1,0 +1,49 @@
+[
+	{
+		"encodedKey": "8a8587f7715f03047871636de170588f",
+		"id": "1243",
+		"creationDate": "2020-04-10T11:31:18+02:00",
+		"valueDate": "2020-04-10T11:31:18+02:00",
+		"parentAccountKey": "8a858e96689842d101689fd7d30a58ea",
+		"type": "DEPOSIT",
+		"amount": 123.45,
+		"currencyCode": "EUR",
+		"affectedAmounts": {
+			"fundsAmount": 200,
+			"interestAmount": 0,
+			"feesAmount": 0,
+			"overdraftAmount": 0,
+			"overdraftFeesAmount": 0,
+			"overdraftInterestAmount": 0,
+			"technicalOverdraftAmount": 0,
+			"technicalOverdraftInterestAmount": 0,
+			"fractionAmount": 0
+		},
+		"taxes": {
+			
+		},
+		"accountBalances": {
+			"totalBalance": 1752.88
+		},
+		"userKey": "8a85867e6ad9e761016ada958bdf5b0f",
+		"branchKey": "8a8587376ad96493016ada758e6208e6",
+		"terms": {
+			"interestSettings": {
+				
+			},
+			"overdraftInterestSettings": {
+				
+			},
+			"overdraftSettings": {
+				
+			}
+		},
+		"transactionDetails": {
+			
+		},
+		"transferDetails": {
+			"linkedDepositTransactionKey": "8a8587f7715f08260171633cb3bc525f"
+		},
+		"fees": []
+	}
+]
